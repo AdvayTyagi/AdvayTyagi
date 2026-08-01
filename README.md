@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Student at Vellore Institute of Technology Chennai (VIT)<br>🤝 I’m looking for help to polish my coding skills<br>🌱 I’m currently learning Computer Science<br>⚡ Fun fact: Music and Coffee is the bane of my existance
+🔭 I'm a Student at Vellore Institute of Technology Chennai (VIT)<br>🤝 I’m looking for help to polish my coding skills<br>🌱 I’m currently learning Computer Science<br>⚡ Fun fact: Music & Coffee are better company than most people
 
 
 ## 🌐 Socials:
